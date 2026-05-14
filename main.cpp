@@ -1,6 +1,6 @@
 #include <iostream>
 #include<hash_table.h>
-using std::cout;// TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
+using std::cout;
 int main() {
     HashTable* ht = ht_new(50);
 
